@@ -12,28 +12,28 @@ It has a hinge to facilitate easy swapping of PCB's.
 
 ## To Print:
 - Two of:
-  - [Hinge](Hinge.stl) (once mirrored)
-  - [Foot](Foot.stl) (once mirrored)
-  - [Short Side A](ShortSideA.stl)
-  - [Short Side B](ShortSideB.stl)
-  - [Long Side A](LongSideA.stl)
-  - [Long Side B](LongSideB.stl)
+  - [Hinge](STLs\Hinge.stl) (once mirrored)
+  - [Foot](STLs\Foot.stl) (once mirrored)
+  - [Short Side A](STLs\ShortSideA.stl)
+  - [Short Side B](STLs\ShortSideB.stl)
+  - [Long Side A](STLs\LongSideA.stl)
+  - [Long Side B](STLs\LongSideB.stl)
 - One of:
-  - [FootConnector](FootConnector.stl)
+  - [FootConnector](STLs\FootConnector.stl)
 - Two supports, you can chose between:
-  - [Support](Support.stl) a normal support
-  - [SupportWithHandle](SupportWithHandle.stl) or a support that is also a handle
+  - [Support](STLs\Support.stl) a normal support
+  - [SupportWithHandle](STLs\SupportWithHandle.stl) or a support that is also a handle
 - As many as you want of:
-  - [SmallMagnetHolder](SmallMagnetHolder.stl) a handle for the 8mm x 3mm Magnets
-  - [LargeMagnetHolder](LargeMagnetHolder.stl) a handle for the 16mm x 5mm Magnets, also needs a M3x20mm Screw
-  - [PCBHolder_1.6mm](PCBHolder_1.6mm.stl) a holder for the PCB, needs one 16mm x 5mm Magnets, a M3x20mm Screw and a nut
+  - [SmallMagnetHolder](STLs\SmallMagnetHolder.stl) a handle for the 8mm x 3mm Magnets
+  - [LargeMagnetHolder](STLs\LargeMagnetHolder.stl) a handle for the 16mm x 5mm Magnets, also needs a M3x20mm Screw
+  - [PCBHolder_1.6mm](STLs\PCBHolder_1.6mm.stl) a holder for the PCB, needs one 16mm x 5mm Magnets, a M3x20mm Screw and a nut
     - This is only for 1.6mm PCB's, it might need to be modified for PCB's with a different thickness
 
 
 Better images and a proper guide how to assemble it will follow
 
-Additional Files:
-- Stencilholder v2.f3d: All parts of the stencil holder
-- MagnetHolders.f3d: The magnet and PCB holders
+Fusion Files:
+- [Stencilholder](Fusion\Stencilholderv2v9.f3d): All parts of the stencil holder
+- [MagnetHolders](Fusion\MagnetHolders.f3d): The magnet and PCB holders
 
 ![alt text](image.png)
